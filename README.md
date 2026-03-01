@@ -13,6 +13,4 @@ Building apps and open-source tooling under [Oversize](https://github.com/oversi
 
 ---
 - [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735) 
-- [romanov.cc](https://romanov.cc)
-- [oversize.app](https://oversize.app)
 - [Telegram](https://t.me/aromanov91)
