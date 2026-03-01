@@ -7,19 +7,12 @@ iOS developer with a product design background.
 
 Building apps and open-source tooling under [Oversize](https://github.com/oversizedev).
 
-## Projects
-
-- [OversizeUI](https://github.com/oversizedev/OversizeUI) — SwiftUI component library
-- [OversizeKit](https://github.com/oversizedev/OversizeKit) — High-level modules and services for SwiftUI apps
-- [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735) — Published apps
-- [More](https://github.com/oversizedev)
-
 ## Stack
 
 `Swift` `SwiftUI` `UIKit` `Combine` `REST API` `OpenAPI Generator` `SwiftPM`
 
 ---
-
+- [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735) 
 - [romanov.cc](https://romanov.cc)
 - [oversize.app](https://oversize.app)
 - [Telegram](https://t.me/aromanov91)
