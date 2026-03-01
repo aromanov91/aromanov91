@@ -1,4 +1,4 @@
-# Alexander Romanov
+# Hi, I’m Alexander Romanov
 
 iOS developer with a product design background.  
 11+ years building apps for Apple platforms — from UI design to SwiftUI and UIKit development.
