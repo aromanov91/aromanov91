@@ -11,7 +11,7 @@ Building apps and open-source tooling under [Oversize](https://github.com/oversi
 
 - [OversizeUI](https://github.com/oversizedev/OversizeUI) — SwiftUI component library
 - [OversizeKit](https://github.com/oversizedev/OversizeKit) — High-level modules and services for SwiftUI apps
-- [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735)
+- [App Store](https://apps.apple.com/us/developer/alexander-romanov/id1459928735) — Published apps
 - [More](https://github.com/oversizedev)
 
 ## Stack
